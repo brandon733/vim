@@ -1,0 +1,63 @@
+## ----- utilities, etc
+plugins-util/start/abolish
+plugins-util/start/ack
+plugins-util/start/clam
+plugins-util/start/csv
+plugins-util/start/dadbod
+plugins-util/start/dadbod-ui
+plugins-util/start/dirdiff
+plugins-util/start/expand-region
+plugins-util/start/fugitive
+plugins-util/start/fzf
+plugins-util/start/gitgutter
+plugins-util/start/localvimrc
+plugins-util/start/matchit
+plugins-util/start/mergetool
+plugins-util/start/repeat
+plugins-util/start/rest-console
+plugins-util/start/splitjoin
+plugins-util/start/supertab
+plugins-util/start/surround
+plugins-util/start/tig-explorer
+plugins-util/start/undotree
+plugins-util/start/unimpaired
+plugins-util/start/vinegar
+## ----- syntax
+plugins-syn/start/ale
+plugins-syn/start/commentary
+plugins-syn/start/fastfold
+plugins-syn/start/prettier
+plugins-syn/start/snippets
+## ----- syntax/languages
+plugins-syn/start/graphql
+plugins-syn/start/isort
+plugins-syn/start/javascript
+plugins-syn/start/jinja2-syntax
+plugins-syn/start/kotlin
+plugins-syn/start/lsp
+plugins-syn/start/markdown
+plugins-syn/start/pgsql
+plugins-syn/start/plantuml-syntax
+plugins-syn/start/protobuf
+plugins-syn/start/yats
+## ----- lisp/clojure: cljfmt, eastwood, fireplace
+## ----- ui
+plugins-ui/start/highlighter
+plugins-ui/start/lightline
+plugins-ui/start/sneak
+#plugins-ui/start/vimux -- currently not using tmux
+## ----- colorscheme
+plugins-color/start/colors-modern-borland
+plugins-color/start/colors-pencil
+plugins-color/start/gruvbox
+plugins-color/start/gruvbox8
+plugins-color/start/iceberg
+plugins-color/start/molokai
+plugins-color/start/nord
+plugins-color/start/oceanic-next
+plugins-color/start/papercolor-theme
+plugins-color/start/selenized
+plugins-color/start/solarized8
+plugins-color/start/summerfruit256
+plugins-color/start/tomorrow-theme
+plugins-color/start/xterm-color-table
